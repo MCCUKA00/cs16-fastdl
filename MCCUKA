@@ -1,3 +1,4 @@
+--[Models]--
 models/v_m4a1.mdl
 models/p_m4a1.mdl
 models/w_m4a1.mdl
@@ -29,3 +30,22 @@ models/w_usp.mdl
 models/v_knife.mdl
 models/p_knife.mdl
 models/w_knife.mdl
+
+
+--[sound]--
+sound/weapons/ak47-1.wav
+sound/weapons/ak47-2.wav
+sound/weapons/ak47-3.wav
+
+sound/weapons/m4a1-1.wav
+sound/weapons/m4a1-2.wav
+sound/weapons/m4a1-3.wav
+
+sound/weapons/awp1.wav
+
+sound/weapons/deagle-1.wav
+
+sound/weapons/glock18-1.wav
+
+sound/weapons/c4-plant.wav
+sound/weapons/c4-click.wav
